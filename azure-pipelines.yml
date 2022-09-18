@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: SN Self Hosted G7
+  vmImage: default
 
 variables:
   buildConfiguration: 'Release'
