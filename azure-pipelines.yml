@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: default
+  vmImage: SIEG7
 
 variables:
   buildConfiguration: 'Release'
