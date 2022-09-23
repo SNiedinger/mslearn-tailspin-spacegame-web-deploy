@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: SIEG7
+  vmImage: ubuntu-latest
 
 variables:
   buildConfiguration: 'Release'
